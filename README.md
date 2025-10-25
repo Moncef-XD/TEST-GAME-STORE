@@ -1,0 +1,3 @@
+Experimental Game Store Project
+This project is my first practical experience in web development. It is an experimental game store designed to showcase my basic skills in page design and content organization. The site includes different sections such as the homepage, the game shop, the contact page, and a search bar.
+Although these sections and links exist, it is important to note that all links in the project are non-functional. They serve only for organizational and illustrative purposes. This is not a ready-to-use store for buying or selling games and cannot be compared to professional game stores like EA Sports.
